@@ -56,8 +56,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/your-username/typing-speed-test](https://github.com/your-username/typing-speed-test)
-- Live Site URL: [https://your-username.github.io/typing-speed-test/](https://your-username.github.io/typing-speed-test/)
+- Solution URL: [GitHub Repository](https://github.com/battleshopventureswaqas-blip/Typing-Master)
+- Live Site URL: [Live Demo](https://battleshopventureswaqas-blip.github.io/Typing-Master/)
 
 ## My process
 
