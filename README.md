@@ -21,9 +21,8 @@ This is a solution to the [Typing Speed Test challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+
+- Frontend Mentor - [Waqas Siddique](https://www.frontendmentor.io/profile/battleshopventureswaqas-blip)
 
 
 
@@ -52,7 +51,7 @@ Users should be able to:
   <img src="./design/mobile-started.png" alt="Mobile View" width="320" />
 </p>
 
-> *Tip: If your screenshots are saved in the root folder or `assets/images/`, update `./design/desktop-started.jpg` and `./design/mobile-started.jpg` to match your exact folder path.*
+> 
 
 ### Links
 
