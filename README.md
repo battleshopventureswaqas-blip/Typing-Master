@@ -130,7 +130,6 @@ What Worked Well: Breaking down UI states (Not Started, Active Test, First Test 
 
 
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
